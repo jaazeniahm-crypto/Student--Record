@@ -1,0 +1,36 @@
+{
+  "totalStudents": 30,
+  "overallAverageGrade": 90.48,
+  "topPerformingStudent": {
+    "id": 9,
+    "name": "Isabella Torres",
+    "course": "BSIT",
+    "averageGrade": 96.5
+  },
+  "breakdownByCourse": [
+    {
+      "course": "BSIT",
+      "studentCount": 8,
+      "averageGrade": 92.11
+    },
+    {
+      "course": "BSBA",
+      "studentCount": 7,
+      "averageGrade": 91.54
+    },
+    {
+      "course": "BSED",
+      "studentCount": 7,
+      "averageGrade": 89.57
+    },
+    {
+      "course": "BSCS",
+      "studentCount": 8,
+      "averageGrade": 88.94
+    }
+  ],
+  "enrollment": {
+    "enrolled": 24,
+    "notEnrolled": 6
+  }
+}
